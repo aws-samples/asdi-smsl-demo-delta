@@ -1,0 +1,27 @@
+name: ASDI-SMSL-DEMO-DELTA
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python>=3.8
+- numpy
+- matplotlib
+- jupyter
+- netcdf4
+- xarray
+- scipy
+- boto
+- boto3
+- arm_pyart
+- cartopy
+- pooch
+- gdal
+- datacube
+needed:
+- rioxarray
+- intake
+- intake-xarray
+- rasterio
+- datashader
+- s3fs
+- hvplot
