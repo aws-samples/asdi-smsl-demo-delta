@@ -17,7 +17,6 @@ dependencies:
 - pooch
 - gdal
 - datacube
-needed:
 - rioxarray
 - intake
 - intake-xarray
