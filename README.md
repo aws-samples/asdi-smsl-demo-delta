@@ -21,6 +21,6 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
 
-### A special thanks to the creators of the ressources I used:
+#### A special thanks to the creators of the ressources I used:
 - <a href="https://notebooks.githubusercontent.com/view/ipynb?browser=chrome&color_mode=auto&commit=142ed94574aa85339e9cd4d6779986cd8974cb36&device=unknown&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f73636f74747968712f73656e74696e656c312d7274632f313432656439343537346161383533333965396364346436373739393836636438393734636233362f53656e74696e656c312d5254432d6578616d706c652e6970796e62&logged_in=false&nwo=scottyhq%2Fsentinel1-rtc&path=Sentinel1-RTC-example.ipynb&platform=android&repository_id=306456114&repository_type=Repository&version=101">Explore Sentinel-1 RTC AWS Public Dataset</a>
 - <a href="https://github.com/pangeo-data/cog-best-practices">Cloud Optimized GeoTiffs Best Practices</a>
