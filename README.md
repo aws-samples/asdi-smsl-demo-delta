@@ -1,6 +1,6 @@
 ## Compare Cloud-Optimized Geotiffs from Amazon Sustainability Data Initiative (ASDI) using Sage Maker Studio Lab (SMSL) hosted on AWS S3 buckets 
 
-This solution demonstrates how to use the free accesible ASDI data from Amazone and analyze it in Sagemaker Studio Lab..
+This solution demonstrates possible solutions to use the free accesible Amazon Sustainability Data Initiative (ASDI) data hosted on AWS S3 and analyze it in AWS Sagemaker Studio Lab.
 
 The Amazon Sustainability Data Initiative (ASDI) seeks to accelerate sustainability research and innovation by minimizing the cost and time required to acquire and analyze large sustainability datasets. ASDI supports innovators and researchers with the data, tools, and technical expertise they need to move sustainability to the next level.
 
