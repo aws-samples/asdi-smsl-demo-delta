@@ -1,0 +1,6 @@
+/vsis3/sentinel-s1-rtc-indigo/tiles/RTC/1/IW/19/T/DK/2017/S1A_20170102_19TDK_ASC/Gamma0_VV.tif
+/vsis3/sentinel-s1-rtc-indigo/tiles/RTC/1/IW/19/T/DK/2017/S1A_20170109_19TDK_ASC/Gamma0_VV.tif
+/vsis3/sentinel-s1-rtc-indigo/tiles/RTC/1/IW/19/T/DK/2017/S1A_20170114_19TDK_ASC/Gamma0_VV.tif
+/vsis3/sentinel-s1-rtc-indigo/tiles/RTC/1/IW/19/T/DK/2017/S1A_20170121_19TDK_ASC/Gamma0_VV.tif
+/vsis3/sentinel-s1-rtc-indigo/tiles/RTC/1/IW/19/T/DK/2017/S1A_20170126_19TDK_ASC/Gamma0_VV.tif
+/vsis3/sentinel-s1-rtc-indigo/tiles/RTC/1/IW/19/T/DK/2017/S1A_20170202_19TDK_ASC/Gamma0_VV.tif
