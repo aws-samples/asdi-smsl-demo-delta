@@ -1,4 +1,4 @@
-## Compare Cloud-Optimized Geotiffs from ASDI "sentinel-s1-rtc-indigo" S3 buckets 
+## Compare Cloud-Optimized Geotiffs from Amazon Sustainability Data Initiative (ASDI) using Sage Maker Studio Lab (SMSL) hosted on AWS S3 buckets 
 
 This solution demonstrates how to use the free accesible ASDI data from Amazone and analyze it in Sagemaker Studio Lab..
 
