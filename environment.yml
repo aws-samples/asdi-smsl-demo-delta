@@ -24,3 +24,5 @@ dependencies:
 - datashader
 - s3fs
 - hvplot
+- geopandas 
+- geoviews
